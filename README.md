@@ -15,4 +15,4 @@ Estes são os desenvolvedores responsáveis pelos projetos desta organização:
 * Nathan STEFANI - Piloto GIGA BOUCLIER TRASEIRO (R1312)
 * Nicole HEMP - Piloto GIGA PDI (R1312)
 
-Gestor responsável: Liro OSTROWSKI
+Gestor responsável: Everton MELO
