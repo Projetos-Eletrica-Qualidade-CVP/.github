@@ -10,7 +10,6 @@ Este ambiente foi criado para centralizar e organizar o desenvolvimento de "Firm
 
 Estes são os desenvolvedores responsáveis pelos projetos desta organização:
 
-* Diego LIMA - Piloto GIGA INFLILTRAÇÃO (P145)
 * Gabriel BITTENCOURT - Piloto GIGA BOUCLIER DIANTEIRO (R1312)
 * Maria GARRET - Piloto GIGA BATERIA 48V (R1312 EA4WD)
 * Nathan STEFANI - Piloto GIGA BOUCLIER TRASEIRO (R1312)
